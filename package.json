@@ -1,0 +1,16 @@
+{
+  "name": "daily-coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^16.3.4"
+  },
+  "type": "module"
+}
